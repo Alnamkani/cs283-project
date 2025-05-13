@@ -1,3 +1,6 @@
 [submodule "ml_peptide_self_assembly"]
 	path = ml_peptide_self_assembly
 	url = https://github.com/mnjirjak/ml_peptide_self_assembly.git
+[submodule "PepDiffusion"]
+	path = PepDiffusion
+	url = https://github.com/Wangyj2023/PepDiffusion.git
